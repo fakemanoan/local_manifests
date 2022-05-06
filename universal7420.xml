@@ -21,10 +21,10 @@
 	<remove-project name="LineageOS/android_packages_apps_Nfc" />
 	
     <!--Device Trees-->
-    <project path="device/samsung/universal7420-common" name="Exynos7420/android_device_samsung_universal7420-common" remote="github" revision="lineage-19.0" />
+    <project path="device/samsung/universal7420-common" name="Exynos7420/android_device_samsung_universal7420-common" remote="github" revision="lineage-19.1" />
 
     <!--Kernel-->
-    <project path="kernel/samsung/universal7420" name="Exynos7420/android_kernel_samsung_exynos7420" remote="github" revision="lineage-19.0" />
+    <project path="kernel/samsung/universal7420" name="Exynos7420/android_kernel_samsung_exynos7420" remote="github" revision="lineage-19.1" />
 
     <!-- Vendor folders -->
     <project path="vendor/samsung" name="Exynos7420/proprietary_vendor_samsung" remote="github" revision="lineage-18.1" />
@@ -37,16 +37,15 @@
     <project path="hardware/samsung_slsi/exynos7420" name="Exynos7420/android_hardware_samsung_slsi_exynos7420" remote="github" revision="lineage-18.1" />
 	
 	<project path="art" name="html6405/android_art" remote="github" revision="lineage-19.0"/>
-	<project path="frameworks/av" name="html6405/android_frameworks_av" remote="github" revision="lineage-19.0"/>
-	<project path="frameworks/base" name="html6405/android_frameworks_base" remote="github" revision="lineage-19.0"/>
-	<project path="packages/modules/adb" name="html6405/android_packages_modules_adb" remote="github" revision="lineage-19.0"/>
+	<project path="frameworks/av" name="html6405/android_frameworks_av" remote="github" revision="lineage-19.1"/>
+	<project path="frameworks/base" name="html6405/android_frameworks_base" remote="github" revision="lineage-19.1"/>
+	<project path="packages/modules/adb" name="html6405/android_packages_modules_adb" remote="github" revision="lineage-19.1"/>
 	<project path="system/core" name="html6405/android_system_core" remote="github" revision="lineage-19.0"/>
 	<project path="vendor/lineage" name="html6405/android_vendor_lineage" remote="github" revision="lineage-19.0"/>
 	<project path="system/netd" name="html6405/android_system_netd" remote="github" revision="lineage-19.0"/>
-	<project path="system/libhidl" name="html6405/android_system_libhidl" remote="github" revision="lineage-19.0"/>
 	<project path="system/bpf" name="html6405/android_system_bpf" remote="github" revision="lineage-19.0"/>
 	<project path="frameworks/opt/telephony" name="html6405/android_frameworks_opt_telephony" remote="github" revision="lineage-19.0"/>
-	<project path="frameworks/native" name="html6405/android_frameworks_native" remote="github" revision="lineage-19.0"/>
+	<project path="frameworks/native" name="html6405/android_frameworks_native" remote="github" revision="lineage-19.1"/>
 	<project path="build" name="html6405/android_build" remote="github" revision="lineage-19.0"/>
 	<project path="build/soong" name="html6405/android_build_soong" remote="github" revision="lineage-19.0"/>
 	<project path="bionic" name="html6405/android_bionic" remote="github" revision="lineage-19.0"/>
