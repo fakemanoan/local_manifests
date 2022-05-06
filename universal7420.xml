@@ -9,7 +9,6 @@
 	<remove-project name="LineageOS/android_system_core" />
 	<remove-project name="LineageOS/android_vendor_lineage"/>
 	<remove-project name="LineageOS/android_system_netd"/>
-	<remove-project name="LineageOS/android_system_libhidl" />
 	<remove-project name="LineageOS/android_system_bpf" />
 	<remove-project name="LineageOS/android_frameworks_opt_telephony" />
 	<remove-project name="LineageOS/android_frameworks_native" />
