@@ -8,20 +8,20 @@
 
 	
     <!--Device Trees-->
-    <project path="device/samsung/universal7420-common" name="Exynos7420/android_device_samsung_universal7420-common" remote="github" revision="lineage-19.1" />
+    <project path="device/samsung/universal7420-common" name="fakemanoan/android_device_samsung_universal7420-common" remote="github" revision="lineage-19.1" />
 
     <!--Kernel-->
-    <project path="kernel/samsung/universal7420" name="Exynos7420/android_kernel_samsung_exynos7420" remote="github" revision="lineage-19.1" />
+    <project path="kernel/samsung/universal7420" name="fakemanoan/android_kernel_samsung_exynos7420" remote="github" revision="lineage-19.1" />
 
     <!-- Vendor folders -->
-    <project path="vendor/samsung" name="Exynos7420/proprietary_vendor_samsung" remote="github" revision="lineage-18.1" />
+    <project path="vendor/samsung" name="fakemanoan/proprietary_vendor_samsung" remote="github" revision="lineage-18.1" />
 	
     <!-- Hardware -->
     <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="lineage-19.1" />
     <project path="hardware/samsung_slsi/exynos" name="TALUAtGitHub/android_hardware_samsung_slsi_exynos" remote="github" revision="lineage-19.1" />
     <project path="hardware/samsung_slsi/exynos5" name="TALUAtGitHub/android_hardware_samsung_slsi_exynos5" remote="github" revision="lineage-19.1" />
     <project path="hardware/samsung_slsi/openmax" name="TALUAtGitHub/android_hardware_samsung_slsi_openmax" remote="github" revision="lineage-18.1" />
-    <project path="hardware/samsung_slsi/exynos7420" name="Exynos7420/android_hardware_samsung_slsi_exynos7420" remote="github" revision="lineage-18.1" />
+    <project path="hardware/samsung_slsi/exynos7420" name="fakemanoan/android_hardware_samsung_slsi_exynos7420" remote="github" revision="lineage-18.1" />
 	
 	
 	<project path="system/netd" name="html6405/android_system_netd" remote="github" revision="A12"/>
