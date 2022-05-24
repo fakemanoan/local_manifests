@@ -2,11 +2,6 @@
 
 <manifest>
 
-	<remove-project name="platform/system/netd"/>
-	<remove-project name="platform/system/bpf" />
-	<remove-project name="LineageOS/android_build_soong" />
-
-	
     <!--Device Trees-->
     <project path="device/samsung/universal7420-common" name="fakemanoan/android_device_samsung_universal7420-common" remote="github" revision="lineage-19.1" />
 
@@ -22,10 +17,5 @@
     <project path="hardware/samsung_slsi/exynos5" name="TALUAtGitHub/android_hardware_samsung_slsi_exynos5" remote="github" revision="lineage-19.1" />
     <project path="hardware/samsung_slsi/openmax" name="TALUAtGitHub/android_hardware_samsung_slsi_openmax" remote="github" revision="lineage-18.1" />
     <project path="hardware/samsung_slsi/exynos7420" name="fakemanoan/android_hardware_samsung_slsi_exynos7420" remote="github" revision="lineage-18.1" />
-	
-	
-	<project path="system/netd" name="html6405/android_system_netd" remote="github" revision="A12"/>
-	<project path="system/bpf" name="html6405/android_system_bpf" remote="github" revision="12"/>
-	<project path="build/soong" name="fakemanoan/android_build_soong" remote="github" revision="lineage-19.1"/>
 
 </manifest>
