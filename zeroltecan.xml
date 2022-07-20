@@ -7,10 +7,10 @@
 
     <!--Device Trees-->
     <project path="device/samsung/universal7420-common" name="fakemanoan/android_device_samsung_universal7420-common" remote="github" revision="lineage-17.1" />
-    <project path="device/samsung/zeroltexx" name="fakemanoan/android_device_samsung_zeroltexx" remote="github" revision="lineage-17.1" />
+    <project path="device/samsung/zeroltecan" name="fakemanoan/android_device_samsung_zeroltecan" remote="github" revision="lineage-17.1" />
 
     <!--Kernel-->
-    <project path="kernel/samsung/exynos7420" name="fakemanoan/android_kernel_samsung_universal7420" remote="github" revision="lineage-17.1" />
+    <project path="kernel/samsung/universal7420" name="fakemanoan/android_kernel_samsung_exynos7420" remote="github" revision="lineage-17.1" />
 
     <!-- Vendor folders -->
     <project path="vendor/samsung" name="fakemanoan/proprietary_vendor_samsung" remote="github" revision="lineage-17.1" />
@@ -19,6 +19,7 @@
     <project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="github" revision="lineage-17.1" />
     <project path="hardware/samsung_slsi/exynos" name="LineageOS/android_hardware_samsung_slsi_exynos" remote="github" revision="lineage-17.1" />
     <project path="hardware/samsung_slsi/exynos5" name="LineageOS/android_hardware_samsung_slsi_exynos5" remote="github" revision="lineage-17.1" />
+    <project path="hardware/samsung_slsi/openmax" name="LineageOS/android_hardware_samsung_slsi_openmax" remote="github" revision="lineage-17.1" />
     <project path="hardware/samsung_slsi/exynos7420" name="fakemanoan/android_hardware_samsung_slsi_exynos7420" remote="github" revision="lineage-17.1" />
 	
 </manifest>
