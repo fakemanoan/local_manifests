@@ -14,3 +14,5 @@ croot
 
 make bacon -j8
 ```
+
+Requires eBPF and netd patches at a minimum to function
