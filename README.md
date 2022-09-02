@@ -14,4 +14,4 @@ croot
 
 make bacon -j8
 ```
-Requires eBPF and netd patches at a minimum to function
+Requires 7420_patches in order to build and boot
