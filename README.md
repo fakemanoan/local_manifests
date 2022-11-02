@@ -14,4 +14,6 @@ croot
 
 make bacon -j8
 ```
-Requires 7420_patches in order to build and boot
+You must apply ALL of the patches in 7420_patches in order to get working builds
+
+Older kernels must use build_soong patches
