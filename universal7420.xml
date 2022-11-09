@@ -6,7 +6,7 @@
     <project path="device/samsung/universal7420-common" name="fakemanoan/android_device_samsung_universal7420-common" remote="github" revision="lineage-19.1" />
 
     <!--Kernel-->
-    <project path="kernel/samsung/universal7420" name="fakemanoan/android_kernel_samsung_universal7420" remote="github" revision="lineage-19.1-EQ1" />
+    <project path="kernel/samsung/universal7420" name="fakemanoan/android_kernel_samsung_universal7420" remote="github" revision="lineage-19.1" />
 
     <!-- Vendor folders -->
     <project path="vendor/samsung" name="fakemanoan/proprietary_vendor_samsung" remote="github" revision="lineage-19.1" />
